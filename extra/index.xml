@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extras on i陈思涵</title>
+    <link>https://ichensihan.github.io/extra/</link>
+    <description>Recent content in Extras on i陈思涵</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ichensihan.github.io/extra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>好故事长什么样</title>
+      <link>https://ichensihan.github.io/extra/how-to-tell/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ichensihan.github.io/extra/how-to-tell/</guid>
+      <description>换句话说，什么样的故事人们才爱听？ 满足人的想象。满足很多人的想象，或者满足目标人群的想象。 真诚。随口乱编不行。故事有漏洞，还不如不讲。 答应给</description>
+    </item>
+    
+  </channel>
+</rss>

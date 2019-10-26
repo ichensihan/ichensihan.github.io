@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drafts on 索罗说</title>
+    <link>//ichensihan.github.io/draft/</link>
+    <description>Recent content in Drafts on 索罗说</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//ichensihan.github.io/draft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>什么样的故事人们才爱听</title>
+      <link>//ichensihan.github.io/draft/how-to-tell/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//ichensihan.github.io/draft/how-to-tell/</guid>
+      <description>最重要的一点：人们只爱听能听进去的。 会讲故事的，从来不教人新东西，而是把听众脑子里已经扎根的讲出来，让人听了觉得自己厉害、觉得有安全感、觉得</description>
+    </item>
+    
+  </channel>
+</rss>
